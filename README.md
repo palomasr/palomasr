@@ -1,6 +1,6 @@
 ## Eai, meu nome é Paloma Ribeiro, sou estudante de sistemas de informação.
-- 🌱 I’m currently learning HTML|CSS|JavaScript
-- 😄 Pronouns: she/her
+ 🌱 I’m currently learning HTML | CSS | JavaScript
+ 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/palomasr">
