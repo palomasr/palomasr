@@ -1,5 +1,4 @@
 ## Eai, meu nome é Paloma Ribeiro, sou estudante de sistemas de informação.
- 🌱 Estou aprendendo HTML | CSS | JavaScript
  
  😄 Pronomes: ela/dela
 
